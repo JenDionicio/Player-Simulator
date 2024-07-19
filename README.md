@@ -1,4 +1,4 @@
-# Player-Simulator
+# Back-End Developments
 #### The code tests various functionalities of a Polynomial class in C++. Here's a summary of its operations:
 
 Creating Polynomials:
