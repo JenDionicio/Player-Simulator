@@ -1,5 +1,5 @@
 # Player-Simulator
-#### The code testPolynomial.cpp tests various functionalities of a Polynomial class in C++. Here's a summary of its operations:
+#### The code tests various functionalities of a Polynomial class in C++. Here's a summary of its operations:
 
 Creating Polynomials:
 
